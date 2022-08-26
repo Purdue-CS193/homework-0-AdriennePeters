@@ -1,4 +1,3 @@
-theme: timemachine
 
 # Introduction
 Hello, My name is Adrienne. I am majoring in Computer Science, and I want to be a software engineer. I am currently taking the folllowing classes:
