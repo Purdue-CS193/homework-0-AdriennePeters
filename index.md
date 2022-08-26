@@ -8,6 +8,8 @@ Hello, My name is Adrienne. I am majoring in Computer Science, and I want to be 
 - CS 193 <3
 I am excited to experinece new things and to attend college!
 
+![Image](https://www.google.com/search?sxsrf=ALiCzsYne994MOpcmO28Rty9PFihpB4rWQ:1661538566136&q=sunflowers+van+gogh&tbm=isch&sa=X&ved=2ahUKEwiolo_AkeX5AhXukYkEHU0jBPcQ0pQJegQICBAB&biw=840&bih=789&dpr=2#imgrc=utTO7oyPAhj7rM)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
